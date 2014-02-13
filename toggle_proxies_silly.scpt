@@ -74,5 +74,10 @@ try
 		set statusStr to "The internets have been closed!"
 	end if
 	display notification statusStr with title "Proxy Toggle"
+	--Open Safari
+	tell application "Safari"
+		activate
+		open location "http://www.omfgdogs.com/"
+	end tell
 	say statusStr
 end try
