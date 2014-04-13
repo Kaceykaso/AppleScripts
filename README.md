@@ -7,6 +7,10 @@ Apple's own AppleScript documentation can be found <a href="https://developer.ap
 <br>
 Note: it has changed quite a bit in Mavericks.
 
+#### Help
+
+Need help? Check out the [Example Screenshots](Example-Screens)!
+
 
 
 Feel free to fork or add to this collection :)
